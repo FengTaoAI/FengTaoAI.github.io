@@ -3,10 +3,10 @@
   <tr>
     <td width="75%">
       <h1>Feng Tao</h1>
-      <p><b>博士研究生</b></p>
-      <p><b>四川大学计算机学院</b></p>
-      <p><b>邮箱：fengtao@stu.scu.edu.cn</b></p>
-      <p><b>地址：成都市武侯区一环路南24号四川大学，计算机学院</b></p>
+      <p><b>Ph.D candiadate</b></p>
+      <p><b>College of Computer Science, Sichuan University</b></p>
+      <p><b>Mail：fengtao@stu.scu.edu.cn</b></p>
+      <p><b>Address：Wangjiang Campus, Sichuan University, Wuhou Chengdu, Sichuan Province PRC</b></p>
     </td>
     <td width="25%">
       <img src="/photo.png" width="100%">
