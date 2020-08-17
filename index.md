@@ -17,16 +17,16 @@
 
 ---
 
-冯涛， 待更新
+To be updated
 
 ---
 
-### 研究方向
-- 人工智能
-- 计算机视觉
+### Research Interests
+- Artificial Intelligence
+- Computer Vision
 
-### 最新消息
-- 待更新
+### The Latest News
+- To be updated
 
-### 研究成果
-- 待更新
+### Recent
+- To be updated
